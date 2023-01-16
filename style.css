@@ -1,0 +1,146 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.main-resume{
+  width: 100%;
+  max-width: 750px;
+  margin: 0 auto;
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 4px 0px;
+}
+
+.contacts .mail, .contacts .phone{
+  margin-bottom: 8px;
+}
+
+.about-me{
+  background: #2f3b44;
+  display: flex;
+  padding: 25px 20px;
+}
+
+.about-me p, .about-me h1{
+  padding: 0;
+  margin: 0;
+}
+
+.contacts{
+  background: #1c2328;
+  color: #fff;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.right-side img{
+  width: auto;
+  max-width: 130px;
+  height: 160px;
+  border-radius: 5px;
+}
+
+.left-side{
+  margin-right: 20px;
+}
+
+.left-side h1{
+  color: #fff;
+}
+
+.left-side p{
+  color: #fff;
+  font-size: 15px;
+}
+
+.left-side h4{
+  color: #52b4a3;
+  margin: 0px 0px 30px 0px;
+}
+
+.resume{
+  background: #e8e8e8;
+}
+
+.resume-body .title{
+  color: #52b4a3;
+  margin: 0;
+  text-decoration: underline;
+}
+
+.resume-body .position{
+  margin-bottom: 0;
+}
+
+.resume-body .company-name{
+  margin: 0;
+  font-weight: 500;
+  font-size: 17px;
+}
+
+.resume-body .work-date{
+  color: #52b4a3;
+  font-size: 14px;
+}
+
+.resume-body{
+  padding: 40px 20px;
+  background: #fff;
+}
+
+.resume-body .skills .skill-item{
+  background: #979da1;
+  padding: 5px 10px;
+  color: #fff;
+  display: inline-block;
+  border-radius: 6px;
+  font-size: 15px;
+  margin: 5px;
+}
+
+.resume-body .top-side{
+  margin-top: 20px; 
+}
+
+.resume-body .top, .resume-body .middle{
+  display: flex;
+  justify-content: space-between;
+}
+
+.resume-body .middle{
+  margin-top: 35px;
+}
+
+.resume-body .languages span{
+  color: #52b4a3;
+  font-size: 13px;
+}
+.resume-body .languages p{
+  margin: 0px;
+}
+
+.resume-body .languages div{
+  margin-top: 20px;
+}
+
+.resume-body .languages{
+  width: 53%;
+}
+
+.resume-body .bottom{
+  margin-top: 20px;
+}
+
+.resume-body .bottom .hobbies-item{
+  padding: 5px 10px;
+  color: #fff;
+  display: inline-block;
+  border-radius: 6px;
+  font-size: 15px;
+  margin: 5px;
+  border: 1px solid #979da1;
+  color: #000;
+}
+
+.resume-body .bottom .hobies-side{
+   margin-top: 20px;
+}
