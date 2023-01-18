@@ -126,7 +126,7 @@ body{
   width: 53%;
 }
 
-.resume-body .bottom{
+.resume-body .bottom, .resume-body .my-works{
   margin-top: 20px;
 }
 
